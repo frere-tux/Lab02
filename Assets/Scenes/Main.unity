@@ -281,6 +281,18 @@ Prefab:
       propertyPath: m_Lightmapping
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 1637633125878884, guid: 18bad75cb27527d43b73034d15c5f348, type: 2}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1659510849271164, guid: 18bad75cb27527d43b73034d15c5f348, type: 2}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1598431900922928, guid: 18bad75cb27527d43b73034d15c5f348, type: 2}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 18bad75cb27527d43b73034d15c5f348, type: 2}
   m_IsPrefabParent: 0
