@@ -1,3 +1,3 @@
 # Lab02
 
-Models integration integration in FPS environment
+Models integration and rendering in FPS environment
